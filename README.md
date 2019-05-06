@@ -11,4 +11,7 @@ Luedeling E, Goehring L (2018) decisionSupport package version 1.103.7
 ## Read more 
 
 Improving development efficiency through decision analysis: reservoir protection in Burkina Faso, [CGspace](https://cgspace.cgiar.org/handle/10568/100141)
-Reservoir management in Burkina Faso - decision analysis repository, [Harvard DataVerse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RAKHX),
+
+Reservoir management in Burkina Faso - decision analysis repository, [Harvard DataVerse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/4RAKHX)
+
+Data for: Improving development efficiency through decision analysis: reservoir protection in Burkina Faso [Original Dataset](https://data.mendeley.com/datasets/zh4j7jrdbs/1)
