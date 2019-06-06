@@ -1,0 +1,109 @@
+"","thold","EVPI_do","EVPI_dont"
+"n_years",no variation,0,0
+"NaturHazard",NA,0,0
+"discount_rate",NA,0,0
+"BadMaintenance",NA,0,0
+"BadDesign",NA,0,0
+"NonCompliance",no relationship,0,0
+"dredge_NonPopInvolv",NA,0,0
+"dredge_NonDonorsInvolv",NA,0,0
+"check_NonPopInvolv",no relationship,0,0
+"check_NonInstInvolv",no relationship,0,0
+"check_NonDonorsInvolv",no relationship,0,0
+"buffer_NonPopInvolv",no relationship,0,0
+"buffer_NonInstInvolv",no relationship,0,0
+"buffer_NonDonorsInvolv",no relationship,0,0
+"current_irrig_area",NA,0,0
+"TLU_no_buffer",no relationship,0,0
+"change_TLU_buffer_perc",no relationship,0,0
+"profit_per_TLU",no relationship,0,0
+"var_CV",no relationship,0,0
+"pipe_blocked_area_lost_perc",NA,0,0
+"dredging_study_cost",no relationship,0,0
+"dredging_supervision_cost",NA,0,0
+"dredging_admin_cost",no relationship,0,0
+"dredging_transport_cost",no relationship,0,0
+"dredging_communication_cost",no relationship,0,0
+"dredging_culvert_feasibility_cost",no relationship,0,0
+"dredging_culvert_supervision_cost",no relationship,0,0
+"check_location_cost",no relationship,0,0
+"check_feasibility_cost",no relationship,0,0
+"check_topobatymetry_cost",no relationship,0,0
+"check_supervision_cost",no relationship,0,0
+"check_training_cost",no relationship,0,0
+"check_communication_cost",no relationship,0,0
+"check_tech_devices_cost",no relationship,0,0
+"check_material_cost",no relationship,0,0
+"check_rocks_cost",no relationship,0,0
+"check_transport_cost",no relationship,0,0
+"buffer_communication_cost",no relationship,0,0
+"buffer_zoning_cost",no relationship,0,0
+"buffer_adaptation_cost",no relationship,0,0
+"buffer_tech_devices_cost",no relationship,0,0
+"buffer_nursery_cost",NA,0,0
+"buffer_wells_cost",no relationship,0,0
+"buffer_training_cost",no relationship,0,0
+"buffer_mngmt_oprt_cost",no variation,0,0
+"buffer_mngmt_follow_cost",no variation,0,0
+"buffer_mngmt_audit_cost",no variation,0,0
+"current_annual_fish_value_USD",no relationship,0,0
+"Hazard_reduction_irrigated_area",no relationship,0,0
+"BadMaint_reduction_irrigated_area",NA,0,0
+"BadDesign_reduction_irrigated_area",no relationship,0,0
+"Hazard_reduction_fish_perc",no relationship,0,0
+"maintenance_check_dams",no relationship,0,0
+"maintenance_buffer_strips",no relationship,0,0
+"scheme2_area_no_dredging_ha",NA,0,0
+"dredging_bump_scheme2_area_perc",no relationship,0,0
+"scheme2_time_until_dredging_benefits_gone_baseline",no relationship,0,0
+"check_dams_added_scheme2_area_benefit_time",NA,0,0
+"scheme2_vegetable_yield_t_ha",no relationship,0,0
+"scheme2_vegetable_profit_USD_t",NA,0,0
+"scheme2_rice_yield_t_ha",no relationship,0,0
+"scheme2_rice_profit_USD_t",no relationship,0,0
+"buffer_vegetable_area_ha",no relationship,0,0
+"buffer_fruit_area_ha",no relationship,0,0
+"buffer_rainfed_crop_area_ha",no relationship,0,0
+"buffer_vegetable_yield_t_ha",no relationship,0,0
+"buffer_fruit_yield_t_ha",no relationship,0,0
+"buffer_rainfed_crop_yield_t_ha",no relationship,0,0
+"buffer_vegetable_profit_USD_t",no relationship,0,0
+"buffer_fruit_profit_USD_t",no relationship,0,0
+"buffer_rainfed_crop_profit_USD_t",no relationship,0,0
+"proportion_irrigation_scheme_rice",NA,0,0
+"irrigation_scheme_rice_yield_t_ha",no relationship,0,0
+"irrigation_scheme_rice_profit_USD_t",NA,0,0
+"irrigation_scheme_vegetable_yield_t_ha",NA,0,0
+"irrigation_scheme_vegetable_profit_USD_t",NA,0,0
+"baseline_time_until_irrig_area_declines",NA,0,0
+"dredging_delay_of_irrig_area_decline",NA,0,0
+"check_dam_delay_of_irrig_area_decline",no relationship,0,0
+"buffer_strip_delay_of_irrig_area_decline",no relationship,0,0
+"baseline_start_losses_to_half_irrig_area_lost",NA,0,0
+"dredging_delay_of_irrig_area_halved",NA,0,0
+"check_dam_delay_of_irrig_area_halved",no relationship,0,0
+"buffer_strip_delay_of_irrig_area_halved",no relationship,0,0
+"current_risk_of_pipe_blockage",no relationship,0,0
+"baseline_time_until_pipes_blocked_every_second_year",no relationship,0,0
+"dredging_delay_of_pipes_blocked_every_second_year",NA,0,0
+"check_dam_delay_of_pipes_blocked_every_second_year",no relationship,0,0
+"buffer_strip_delay_of_pipes_blocked_every_second_year",no relationship,0,0
+"current_chance_of_blocked_pipe_cleared",no relationship,0,0
+"baseline_time_until_chance_cleared_50percent",no relationship,0,0
+"dredging_delay_of_time_until_chance_cleared_50percent",no relationship,0,0
+"check_dam_delay_of_time_until_chance_cleared_50percent",no relationship,0,0
+"buffer_strip_delay_of_time_until_chance_cleared_50percent",no relationship,0,0
+"baseline_time_until_irrig_area2_declines",no relationship,0,0
+"dredging_delay_of_irrig_area2_decline",NA,0,0
+"check_dam_delay_of_irrig_area2_decline",no relationship,0,0
+"baseline_start_losses_to_half_irrig_area2_lost",no relationship,0,0
+"dredging_delay_of_irrig_area2_halved",no relationship,0,0
+"check_dam_delay_of_irrig_area2_halved",no relationship,0,0
+"time_to_start_fish_decline_baseline",no relationship,0,0
+"dredging_delay_start_fish_decline",no relationship,0,0
+"check_dams_delay_start_fish_decline",no relationship,0,0
+"buffer_strips_delay_start_fish_decline",no relationship,0,0
+"time_to_halve_fish_population_baseline",no relationship,0,0
+"dredging_delay_in_time_to_halve_fish_population",no relationship,0,0
+"check_dams_delay_in_time_to_halve_fish_population",no relationship,0,0
+"buffer_strips_delay_in_time_to_halve_fish_population",no relationship,0,0
